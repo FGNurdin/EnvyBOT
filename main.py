@@ -271,4 +271,4 @@ for filename in os.listdir("./cogs"):
 
 # ========== RUN BOT =========== #
 load_dotenv(".env")
-client.run("Nzg4NzU2MjgxMDc0NjQ3MDcz.X9oIhw.ReK-RbEChJut0XM1TsTyVJN_lOM")
+client.run("BOT TOKEN")
