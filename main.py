@@ -4,7 +4,7 @@ from discord import Intents
 from dotenv import load_dotenv
 
 intents = discord.Intents.all()
-client = commands.Bot(command_prefix="e", intents=intents)
+client = commands.Bot(command_prefix="e!", intents=intents)
 client.remove_command("help")
 
 # ========================= COGS ========================= #
